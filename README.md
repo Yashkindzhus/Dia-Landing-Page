@@ -1,7 +1,7 @@
 # Dia landing page
 [Design of the Dia](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
 
-**Technologies:
+**Technologies:**
 - Html
 - CSS/SCSS
 - Javascript
