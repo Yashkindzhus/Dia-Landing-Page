@@ -7,4 +7,4 @@
 - Javascript
 - BEM
 
-[Prewiew](https://yashkindzhus.github.io/layout_dia/)
+[Preview](https://yashkindzhus.github.io/layout_dia/)
